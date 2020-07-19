@@ -30,11 +30,11 @@ else if (winner === "computer") {
 } 
 }
 
-const advancedRound = () =>  {
+const advanceRound = () =>  {
     currentRoundNumber ++; 
 }
 
 
 
 // Somehow FINALscript.js is pulling humanGuess somewhere. I have no idea how this is a parameter. 
-// After further research it appears that 
+// After further research it appears that there is a 
